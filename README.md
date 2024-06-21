@@ -2,8 +2,6 @@
 
 Call it a fever dream but I had the idea to revamp my portfolio page and make it a Super Mario Bros themed one!
 
-![It's a-Bree Banner](assets/images/banner.png)
-
 ## Table of Contents
 
 - [Features](#features)
