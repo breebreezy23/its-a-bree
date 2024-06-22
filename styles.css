@@ -19,6 +19,8 @@ body {
     flex-direction: column;
     min-height: 100vh;
     padding: 0;
+    background-image: url('assets/images/dark-mode.png');
+    background-size: cover;
 }
 
 .content {
@@ -107,7 +109,6 @@ h2 {
     color: black;
     text-align: center;
     padding: 50px;
-    background-image: url('assets/images/background-img.jpg');
 }
 
 .header-container {
